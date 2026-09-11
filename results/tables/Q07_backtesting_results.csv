@@ -1,0 +1,4 @@
+method,var_date,var_dollar,observations,exceptions,exception_rate,expected_exception_rate,expected_exceptions,difference_from_expected
+Parametric VaR — 100-day,2026-07-31,807196.0882422586,500,27,0.054,0.05,25.0,2.0
+Historical VaR — 100-day,2026-07-31,703172.2100280337,500,41,0.082,0.05,25.0,16.0
+Historical VaR — 500-day,2026-07-31,892488.9864704744,500,20,0.04,0.05,25.0,-5.0
